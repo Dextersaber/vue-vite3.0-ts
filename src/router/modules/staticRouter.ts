@@ -48,7 +48,7 @@ export const staticRouter: RouteRecordRaw[] = [
         name: "DataLabeler1",
         component: () => import("@/layouts/index.vue"),
         meta: {
-          title: "测试3",
+          title: "测试2",
         },
       },
     ],
